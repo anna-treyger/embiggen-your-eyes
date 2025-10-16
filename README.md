@@ -1,6 +1,17 @@
 # embiggen-your-eyes
 Team Incognito Mode's repository for the 2025 NASA Space Apps Challenge!
 
+**This repository is a fork of the original project (https://github.com/lausan3/embiggen-your-eyes)
+
+My primary contributions to this project were focused on:
+	•	Project planning and coordination
+	•	Concept development and feature ideation
+	•	Creating the pitch deck and presentation materials
+
+I forked this repository to showcase the project as part of my portfolio and to document my specific contributions within a collaborative team setting.
+
+For details about the original codebase or full technical implementation, please refer to the original repository linked above.
+
 ## Planetary Map Explorer
 
 A dynamic planetary map system with feature highlighting, tile-based filtering, and USGS nomenclature data.
